@@ -313,6 +313,7 @@ Curated collection of blockchain &amp; cryptocurrency links.
 * [CryptoWatch](https://cryptowat.ch/docs/api) - Public REST API, providing basic information about all markets on Cryptowatch.
 * [Microsoft BaaS](https://azure.microsoft.com/en-in/solutions/blockchain/) - Blockchain as Service (BaaS) from Microsoft Azure.
 * [CoinMarketCap](https://coinmarketcap.com/api/) - Powerful JSON API covering 1000+ coins. Limit: 1 request per 6 sec.
+* [CoinLore](https://www.coinlore.com/cryptocurrency-data-api) - JSON API more then 7000 coins. No Rate Limit
 * [CoinCap](https://docs.coincap.io/) - Simple and informative. Lots of altcoins. History data. No limits.
 * [ChangeNOW](https://changenow.io/api/docs) - Easy integration of the cryptocurrency exchange. Limitless and fast coin swaps free of custody.
 
